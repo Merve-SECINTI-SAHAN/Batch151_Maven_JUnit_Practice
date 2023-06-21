@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57fb1ce6-8f17-487f-95e0-cd706118155b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_practice/C01_DropDownMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_practice/C02_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_practice/C03_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_practice/C01_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_practice/C01_WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_practice/C02_ActionsDragAndDrop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,22 +48,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C01_Iframe.test01">
-    <configuration name="C01_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch151_Maven_Junit_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day04_practice" />
-      <option name="MAIN_CLASS_NAME" value="day04_practice.C01_DropDownMenu" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C03_ActionMoveToElement.test01">
     <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
@@ -84,31 +65,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WindowHandle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WindowHandles.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_practice.*" />
+          <option name="PATTERN" value="day06_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_practice" />
-      <option name="MAIN_CLASS_NAME" value="day04_practice.C02_WindowHandle" />
+      <option name="PACKAGE_NAME" value="day06_practice" />
+      <option name="MAIN_CLASS_NAME" value="day06_practice.C01_WindowHandles" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_ActionsDragAndDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch151_Maven_Junit_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day06_practice" />
+      <option name="MAIN_CLASS_NAME" value="day06_practice.C02_ActionsDragAndDrop" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WindowHandle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_ActionMoveToElement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_practice.*" />
+          <option name="PATTERN" value="day06_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_practice" />
-      <option name="MAIN_CLASS_NAME" value="day04_practice.C02_WindowHandle" />
+      <option name="PACKAGE_NAME" value="day06_practice" />
+      <option name="MAIN_CLASS_NAME" value="day06_practice.C03_ActionMoveToElement" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_ActionMoveToElement.test01" />
+        <item itemvalue="JUnit.C02_ActionsDragAndDrop" />
+        <item itemvalue="JUnit.C01_WindowHandles.test01" />
         <item itemvalue="JUnit.C01_Iframe.test01" />
         <item itemvalue="JUnit.C03_Iframe.test01" />
-        <item itemvalue="JUnit.C02_WindowHandle.test01" />
-        <item itemvalue="JUnit.C02_WindowHandle" />
-        <item itemvalue="JUnit.C01_DropDownMenu" />
       </list>
     </recent_temporary>
   </component>
