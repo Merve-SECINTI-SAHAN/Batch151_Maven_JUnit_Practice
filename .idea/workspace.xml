@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57fb1ce6-8f17-487f-95e0-cd706118155b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day07_Practice/C01_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_practice/C01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_practice/C02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -45,10 +48,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/secin/IdeaProjects/Batch151_Maven_Junit_Practice/src/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C01_Faker.test01">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\secin\IdeaProjects\Batch151_Maven_Junit_Practice\src\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C02.test01">
     <configuration name="C01_Faker.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
@@ -65,63 +77,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_practice.*" />
+          <option name="PATTERN" value="day09_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day05_practice" />
-      <option name="MAIN_CLASS_NAME" value="day05_practice.C01_Iframe" />
+      <option name="PACKAGE_NAME" value="day09_practice" />
+      <option name="MAIN_CLASS_NAME" value="day09_practice.C01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WindowHandles.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_practice.*" />
+          <option name="PATTERN" value="day09_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_practice" />
-      <option name="MAIN_CLASS_NAME" value="day06_practice.C01_WindowHandles" />
+      <option name="PACKAGE_NAME" value="day09_practice" />
+      <option name="MAIN_CLASS_NAME" value="day09_practice.C02" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_ActionsDragAndDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_practice.*" />
+          <option name="PATTERN" value="day01_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_practice" />
-      <option name="MAIN_CLASS_NAME" value="day06_practice.C02_ActionsDragAndDrop" />
+      <option name="PACKAGE_NAME" value="day01_practice" />
+      <option name="MAIN_CLASS_NAME" value="day01_practice.C04" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_ActionMoveToElement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_practice.*" />
+          <option name="PATTERN" value="day01_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_practice" />
-      <option name="MAIN_CLASS_NAME" value="day06_practice.C03_ActionMoveToElement" />
+      <option name="PACKAGE_NAME" value="day01_practice" />
+      <option name="MAIN_CLASS_NAME" value="day01_practice.C04" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -130,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C02.test01" />
+        <item itemvalue="JUnit.C01.test01 (1)" />
         <item itemvalue="JUnit.C01_Faker.test01" />
-        <item itemvalue="JUnit.C03_ActionMoveToElement.test01" />
-        <item itemvalue="JUnit.C02_ActionsDragAndDrop" />
-        <item itemvalue="JUnit.C01_WindowHandles.test01" />
-        <item itemvalue="JUnit.C01_Iframe.test01" />
+        <item itemvalue="JUnit.C04" />
+        <item itemvalue="JUnit.C04.test01" />
       </list>
     </recent_temporary>
   </component>
