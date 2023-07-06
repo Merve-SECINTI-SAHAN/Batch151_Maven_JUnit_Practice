@@ -10,7 +10,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 
-public class C01 extends TestBase {
+public class C01_ReadExcel extends TestBase {
     @Test
     public void test01() throws IOException {
         //pom.xml'e excel dependency'lerini kopyaladık.

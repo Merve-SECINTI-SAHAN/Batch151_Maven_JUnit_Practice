@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57fb1ce6-8f17-487f-95e0-cd706118155b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day09_practice/C01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day09_practice/C02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day09_practice/C02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day09_practice/C02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151_Maven_Junit_Practice" />
       <extension name="coverage">
         <pattern>
@@ -86,7 +82,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="day09_practice" />
-      <option name="MAIN_CLASS_NAME" value="day09_practice.C01" />
+      <option name="MAIN_CLASS_NAME" value="day09_practice.C01_ReadExcel" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -143,7 +139,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.C02.test01" />
-        <item itemvalue="JUnit.C01.test01 (1)" />
+        <item itemvalue="JUnit.C01_ReadExcel.test01" />
         <item itemvalue="JUnit.C01_Faker.test01" />
         <item itemvalue="JUnit.C04" />
         <item itemvalue="JUnit.C04.test01" />
